@@ -5,4 +5,4 @@
 
 ### Список домашних заданий ###
 
-**[ДЗ №1: формы представления 3D-данных](https://github.com/justalgit/CompVisionCourse/HW1/HW1_Larin.ipynb)**
+**[ДЗ №1: формы представления 3D-данных](https://github.com/justalgit/CompVisionCourse/blob/main/HW1/HW1_Larin.ipynb)**
